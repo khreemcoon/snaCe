@@ -1,7 +1,7 @@
 # snaCe
 Snake game made in C and SDL2
 ##### *Only tested on linux*
-# Dependancies
+# Dependencies
 To compile and run this, you need SDL2 installed
 # Compiling
 To compile this(and launch it) just run
