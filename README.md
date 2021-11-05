@@ -1,5 +1,8 @@
 # snaCe
 Snake game made in C and SDL2
+##### *Only tested on linux*
+# Dependancies
+To compile and run this, you need SDL2 installed
 # Compiling
 To compile this(and launch it) just run
 `gcc alltheotherslimshadysarejustimmitating.c -lSDL2 -lSDL2_image -lSDL2_ttf -lSDL2_mixer -o game && ./game`
