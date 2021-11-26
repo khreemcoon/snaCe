@@ -9,6 +9,7 @@ To do that on ubuntu/debian-based distros, run these commands in your terminal:
 
 Arch-based distros:
 `sudo pacman -S sdl2 sdl2_image sdl2_mixer sdl2_ttf`
+
 IF THESE COMMANDS DON'T WORK, PLEASE MAKE AN ISSUE.
 # Compiling
 To compile this(and launch it) just run
